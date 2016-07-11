@@ -1,0 +1,16 @@
+body{
+	background-color:silver;
+	color:black;
+}
+p{
+	color:black;
+}
+li, ul{
+	color:black;
+	text-decoration:none;
+	display:inline;
+	padding:25px;
+}
+h1{
+	text-align:center;
+}
