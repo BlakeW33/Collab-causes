@@ -9,12 +9,11 @@ ul{
 	text-decoration:none;
 	display:inline;
 }
-}
-ul{
-	color:white;
-	text-decoration:none;
-	display:inline;
-}
 h1{
 	text-align:center;
+}
+#border{
+	border:2pt solid;
+	border-color:white;
+	border-style:double;
 }

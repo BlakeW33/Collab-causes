@@ -12,3 +12,8 @@ ul{
 li{
 	text-decoration:none;
 }
+#border{
+	border:2pt solid;
+	border-color:white;
+	border-style:double;
+}

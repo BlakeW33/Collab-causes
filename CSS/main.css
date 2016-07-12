@@ -13,12 +13,12 @@ h1{
 	text-align:center;
 }
 nav{
-	border:1pt solid;
-	border-color:black;
+	border:2pt solid;
+	border-color: white;
 	border-style:double;
 }
-li{
-	border:1pt solid;
-	border-color:black;
+#border{
+	border:2pt solid;
+	border-color: white;
 	border-style:double;
 }
